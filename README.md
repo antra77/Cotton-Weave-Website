@@ -4,7 +4,7 @@
 <h2 id="overview">Overview</h2>
 <p>The Cotton Weave Website provides a platform for users to explore and learn about different cotton products and the intricate process of weaving.</p>
 <h2 id="demo">Demo</h2>
-<p>Explore the live demo of the Cotton Weave Website: <a href="https://your-demo-url.com">Live Demo</a></p>
+<p>Explore the live demo of the Cotton Weave Website: <a href="https://antra77.github.io/Cotton-Weave-Website/">Live Demo</a></p>
 <h2 id="features">Features</h2>
 <ul>
 <li><strong>Product Showcase:</strong> View a variety of cotton products with detailed information.</li>
